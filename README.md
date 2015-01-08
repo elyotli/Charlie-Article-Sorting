@@ -10,9 +10,11 @@ Metrics:
 - popularity of the article on social media
 - whether the article is published when the related company is trending on Google searches
 
-To run:
-# first add in your twitter consumer key/secret to /Lib/PopularitySearch.rb
-$ Ruby Driver.rb
+To use:
+- first add in your twitter consumer key/secret to /Lib/PopularitySearch.rb
+- then run:
+
+	$ Ruby Driver.rb
 
 
 I am not familiar with how Charlie handles its articles ranking or what data it has available, but hopefully these scripts can generate some new ideas on Charlie's article sorting.
